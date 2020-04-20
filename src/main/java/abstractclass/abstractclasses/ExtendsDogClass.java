@@ -9,6 +9,6 @@ class ExtendsDogClass extends  AbstractClassDog{
 
     @Override
     void pop() {
-        System.out.println(" === pop ??? ===");
+        System.out.println(" === pop === ");
     }
 }
